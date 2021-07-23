@@ -1,0 +1,11 @@
+nav a{
+    color:aquamarine;
+    text-decoration: none;
+}
+.top {
+    font-size: 40px;
+    color: rgb(0, 43, 233);
+}
+#hero{
+    color: red;
+}
